@@ -2,8 +2,8 @@
 title: Hello, World!
 published: 2026-06-04
 description: ブログ開設しました。
-tags: [ブログ, 日常]
-category: ブログ
+tags: [Astro, Fuwari, GitHub Pages]
+category: Blog
 draft: false
 ---
 # ブログ開設しました！
