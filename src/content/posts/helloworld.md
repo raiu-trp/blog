@@ -1,9 +1,9 @@
 ---
 title: Hello, World!
-published: 2026-05-23
+published: 2026-06-04
 description: ブログ開設しました。
-tags: [Markdown, Blogging, Demo]
-category: Examples
+tags: [ブログ, 日常]
+category: ブログ
 draft: false
 ---
 # ブログ開設しました！
